@@ -4,21 +4,21 @@ Este projeto é baseado no desafio proposto pelo professor da matéria de Princ�
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos e de aprendizado.
 Ele não tem como foco precisão científica para grandes casas decimais ou suporte a notação científica.
 
-𝐅𝐈𝐍𝐀𝐋𝐈𝐃𝐀𝐃𝐄:
+📌𝐅𝐈𝐍𝐀𝐋𝐈𝐃𝐀𝐃𝐄:
 ------------------------------------------------------------------------------------
 
 ° Desenvolver um conversor que transforma números decimais em binários e vice versa
 
 ° Desenvolver uma interface gráfica interativa com Python
 
-𝐈𝐍𝐓𝐄𝐑𝐅𝐀𝐂𝐄:
+🖥️𝐈𝐍𝐓𝐄𝐑𝐅𝐀𝐂𝐄:
 ------------------------------------------------------------------------------------
 
 
 ![interface calculadora](https://github.com/user-attachments/assets/34824ed2-ae71-41bc-a32c-078abc0b4fb4)
 
 
-𝖤𝖷𝖤𝖬𝖯𝖫𝖮 𝖣𝖤 𝖴𝖲𝖮:
+🧮𝖤𝖷𝖤𝖬𝖯𝖫𝖮 𝖣𝖤 𝖴𝖲𝖮:
 ------------------------------------------------------------------------------------
 ° 𝐃𝐞𝐜𝐢𝐦𝐚𝐥 𝐩𝐚𝐫𝐚 𝐁𝐢𝐧𝐚́𝐫𝐢𝐨:
 
@@ -29,7 +29,8 @@ Ele não tem como foco precisão científica para grandes casas decimais ou supo
 
 ![BINTODEC](https://github.com/user-attachments/assets/c4c2ca38-d05c-49f8-a23d-c887ce03472e)
 
-------------------------------------------------------------------------------------
+
+
 
 
 
