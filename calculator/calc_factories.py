@@ -30,7 +30,7 @@ janela.resizable(False, False)
 janela.configure(background="#428af5")
 
 #logo do programa
-icon = PhotoImage(file='C:\\Users\\jvbmo\\Downloads\\testes\\calc\\calculadora.png')
+icon = PhotoImage(file='C:\\Users\\jvbmo\\Downloads\\calc-Photoroom.png')
 janela.iconphoto(True,icon)
 
 
