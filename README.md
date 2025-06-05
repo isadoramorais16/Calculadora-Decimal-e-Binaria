@@ -25,7 +25,7 @@ Ele não tem como foco precisão científica para grandes casas decimais ou supo
 ![DECTOBIN](https://github.com/user-attachments/assets/4132d8f8-e2b9-43ce-8f38-2660b6c6f1d6)
 
 
-° 𝐁𝐢𝐧𝐚́𝐫𝐢𝐨 𝐩𝐚𝐫𝐚 𝐃𝐞𝐜𝐢𝐦𝐚𝐥
+° 𝐁𝐢𝐧𝐚́𝐫𝐢𝐨 𝐩𝐚𝐫𝐚 𝐃𝐞𝐜𝐢𝐦𝐚𝐥:
 
 ![BINTODEC](https://github.com/user-attachments/assets/c4c2ca38-d05c-49f8-a23d-c887ce03472e)
 
