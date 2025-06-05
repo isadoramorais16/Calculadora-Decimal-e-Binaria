@@ -4,6 +4,7 @@ Este projeto é baseado no desafio proposto pelo professor da matéria de Princ�
 
 finalidade:
 ° Desenvolver um conversor que transforma números decimais em binários e vice versa
+
 ° Desenvolver uma interface gráfica interativa com Python
 
 𝐈𝐍𝐓𝐄𝐑𝐅𝐀𝐂𝐄:
