@@ -7,7 +7,7 @@ finalidade:
 ° Desenvolver uma interface gráfica interativa com Python
 
 𝐈𝐍𝐓𝐄𝐑𝐅𝐀𝐂𝐄:
------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
 ![interface calculadora](https://github.com/user-attachments/assets/34824ed2-ae71-41bc-a32c-078abc0b4fb4)
